@@ -1,4 +1,4 @@
-# instacart-basket-analysis
+# python-instacart-analysis
 Purpose of repository
 
 ## Objective
