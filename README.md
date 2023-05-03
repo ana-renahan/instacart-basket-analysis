@@ -3,6 +3,7 @@ Purpose of repository
 
 ## Project Objective
 ![Screenshot of Instacart logo](https://mma.prnewswire.com/media/513450/Instacart_Logo.jpg?w=200)
+
 Instacart is an online grocery store that operates through an app. Instacart is looking to uncover
 more information about their sales patterns. My task as a data analyst is to perform an initial
 data and exploratory analysis of some of their data in order to derive insights and suggest
