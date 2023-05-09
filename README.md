@@ -20,6 +20,12 @@ For this project, the following Python libraries were used:
 - seaborn
 
 ## Executing the Code
+The data can be downloaded in the following links:
+- [Order and Product data (dataset 1)](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip).
+- [Order and Product data (dataset 2)](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/order_products_prior.zip).
+- [Customer data](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
+- [Department data](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip).
+
 The code is available as Jupyter notebooks, available under 
 /03-2023 Instacart Basket Analysis/Scripts/.
 
