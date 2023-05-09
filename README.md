@@ -21,6 +21,9 @@ For this project, the following Python libraries were used:
 The code is available as Jupyter notebooks, available under 
 /03-2023 Instacart Basket Analysis/Scripts/.
 
+The final report can be found under
+/03-2023 Instacart Basket Analysis/Sent to Client/.
+
 ## Resources
 Data Citation:
 - “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from 
