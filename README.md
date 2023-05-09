@@ -1,5 +1,7 @@
 # python-instacart-analysis
-Purpose of repository
+The purpose of this repository is to demonstrate data wrangling, data merging, deriving 
+variables, and grouping and aggregating data within Python. Data visualizations within Python 
+have also been created and a final report was created for Instacart stakeholders using Excel.
 
 ## Project Objective
 ![Screenshot of Instacart logo](https://mma.prnewswire.com/media/513450/Instacart_Logo.jpg?w=200)
